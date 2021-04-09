@@ -55,6 +55,7 @@
   Pk/CryptX509.c
   Pk/CryptAuthenticodeNull.c
   Pk/CryptTsNull.c
+  Pk/CryptRsaPssNull.c
   Pem/CryptPem.c
 
   SysCall/CrtWrapper.c
